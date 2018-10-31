@@ -7,3 +7,7 @@ a {
     width: 200px;
   }
 }
+
+a:hover {
+  background-color: rgba(255,0,255,0.3);
+}
