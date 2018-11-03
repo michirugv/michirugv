@@ -16,3 +16,15 @@ a:hover {
     width: 800px;
     height: 500px;
 }
+
+.kakudai_shukusho img {
+  width: 100px;
+  height: 100px;
+}
+
+.kakudai_shukusho img:hover {
+  background: url('sun.png');
+  width: 300px;
+  height: 300px;
+  transition: 2s;
+}
